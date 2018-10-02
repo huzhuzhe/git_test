@@ -5,3 +5,5 @@ sssssssssssssssss
 xxxxxxxxxxxxxxxxx
 yyyyyyyyyyyy
 master master master  @@@@@仅在master上修改
+branch branch branch @@@@@@@本次修改仅仅在branch上有效
+>>>>>>> my_branch
